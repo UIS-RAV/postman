@@ -2381,17 +2381,17 @@
   ],
   "variable": [
     {
-      "id": "b96cb459-8338-4eea-9b72-e80e16d534eb",
+      "id": "9a7d9ef3-110d-4f2c-bd1c-ee425d1c8a17",
       "key": "ezdtoken",
       "value": "c309bb92979f23061e6423ec5810d140a3d760c5"
     },
     {
-      "id": "21006717-805b-49bb-bd6a-42deac4649f8",
+      "id": "850e1edf-dd39-45fb-973e-7e896d44fd8c",
       "key": "ezd_url",
       "value": "gtatara.dev.ezd"
     },
     {
-      "id": "bd3d0e23-0d6f-459b-ba1a-c22c96aa6e78",
+      "id": "f0edfc6e-1bd6-4407-9fb3-e6dbc867f03d",
       "key": "ezdapitoken",
       "value": ""
     }

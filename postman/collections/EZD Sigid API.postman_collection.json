@@ -259,17 +259,17 @@
   ],
   "variable": [
     {
-      "id": "841044b0-c3cf-42a7-924f-58ff9a63c47f",
+      "id": "eaedde11-2157-4556-bf3f-c8d5dcf34ea3",
       "key": "id",
       "value": "1"
     },
     {
-      "id": "7632142f-f2b2-49ed-bc19-cfff91099e82",
+      "id": "56f51f1b-6db0-485e-84c7-55e46280a411",
       "key": "ezd_url",
       "value": "mnowakowska.dev.ezd"
     },
     {
-      "id": "dd070bcf-03f3-4ba4-98e9-c9d30151402e",
+      "id": "db97a437-d555-4cd5-b053-14800fc0125d",
       "key": "ezdtoken",
       "value": "785625d2671f5e1b9d296d241f439c1f7b9b6e76",
       "type": "string"

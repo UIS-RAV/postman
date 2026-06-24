@@ -1949,13 +1949,13 @@
   ],
   "variable": [
     {
-      "id": "2ea10412-bc17-4b52-977c-730694949249",
+      "id": "f04791ed-b8bf-4bbd-bd64-8eb62e39a38c",
       "key": "ezdtoken",
       "value": "785625d2671f5e1b9d296d241f439c1f7b9b6e76",
       "type": "string"
     },
     {
-      "id": "53cafc05-53dc-471e-8716-9fee54c12793",
+      "id": "00804e41-1bcc-44fc-b9a2-c5defbfe4ef8",
       "key": "ezd_url",
       "value": "ezd-1-6-1-0.dev.ezd",
       "type": "string"

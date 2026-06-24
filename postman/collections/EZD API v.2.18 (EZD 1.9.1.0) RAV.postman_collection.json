@@ -1410,15 +1410,15 @@
                 "header": [
                   {
                     "key": "ezdtoken",
-                    "value": "{{ezdtoken}}",
+                    "value": "{{pilsudski_token}}",
                     "type": "text"
                   }
                 ],
                 "url": {
-                  "raw": "https://{{ezd_url}}/api.php/api/sd/szczegoly-dokumentu?stanowisko_id=wojt_2&dokument_id=7918&czy_szczegoly_interesantow=true&czy_tresc_zalacznikow=true",
+                  "raw": "https://{{instancja_url}}/api.php/api/sd/szczegoly-dokumentu?stanowisko_id=wojt_1&dokument_id=28908&czy_szczegoly_interesantow=true&czy_tresc_zalacznikow=true",
                   "protocol": "https",
                   "host": [
-                    "{{ezd_url}}"
+                    "{{instancja_url}}"
                   ],
                   "path": [
                     "api.php",
@@ -1429,12 +1429,12 @@
                   "query": [
                     {
                       "key": "stanowisko_id",
-                      "value": "wojt_2",
+                      "value": "wojt_1",
                       "description": "(wymagane) ID stanowiska pracownika"
                     },
                     {
                       "key": "dokument_id",
-                      "value": "7918",
+                      "value": "28908",
                       "description": "(wymagane) ID sprawy"
                     },
                     {
@@ -3985,7 +3985,7 @@
                 "header": [
                   {
                     "key": "ezdtoken",
-                    "value": "{{ezdtoken}}",
+                    "value": "{{pilsudski_token}}",
                     "type": "text"
                   }
                 ],
@@ -4016,7 +4016,7 @@
                     },
                     {
                       "key": "termin_sprawy",
-                      "value": "2019-05-28 18:20:05",
+                      "value": "2026-06-28 18:20:05",
                       "description": "(wymagane) Data: 2019-02-28 18:20:05"
                     },
                     {
@@ -4027,23 +4027,23 @@
                     },
                     {
                       "key": "symbol_sprawy",
-                      "value": "WG.0008.103.2022",
+                      "value": "WG.0008.203.2026",
                       "description": "(wymagane) Symbol sprawy (WG.0008.103.2022)",
                       "type": "text"
                     },
                     {
                       "key": "symbol_komorki",
-                      "value": "Pi",
+                      "value": "WG",
                       "description": "Symbol komórki na podstawie, której zostanie wybrane stanowisko inne niż podane w parametrze stanowisko_id",
                       "type": "text"
                     }
                   ]
                 },
                 "url": {
-                  "raw": "https://{{ezd_url}}/api.php/api/geoinfo/importuj-sprawe",
+                  "raw": "https://{{instancja_url}}/api.php/api/geoinfo/importuj-sprawe",
                   "protocol": "https",
                   "host": [
-                    "{{ezd_url}}"
+                    "{{instancja_url}}"
                   ],
                   "path": [
                     "api.php",
@@ -5032,17 +5032,17 @@
   ],
   "variable": [
     {
-      "id": "dacf495f-5c88-415b-8217-e256e2a3496b",
+      "id": "486c3851-7f99-43dd-bd0c-386f0a27c9cd",
       "key": "ezdtoken",
       "value": "c309bb92979f23061e6423ec5810d140a3d760c5"
     },
     {
-      "id": "0fabc3b1-0ebc-413d-b9a4-0ab034a6efa3",
+      "id": "783f1fab-f7fe-45c9-9930-6bf97a668909",
       "key": "ezd_url",
       "value": "gtatara.dev.ezd"
     },
     {
-      "id": "f2752835-3b1e-4464-bc54-4e81238f5457",
+      "id": "d88be8c7-8950-4c1a-ab6b-5d7988b2d4e1",
       "key": "ezdapitoken",
       "value": ""
     }
